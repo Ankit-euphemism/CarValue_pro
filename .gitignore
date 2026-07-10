@@ -26,5 +26,7 @@ ENV/
 .ipynb_checkpoints
 
 # Testing
+.env
 .coverage
 htmlcov/
+car_data.csv
