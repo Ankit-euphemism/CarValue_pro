@@ -24,7 +24,7 @@ The project uses historical car data to estimate resale value based on price, mi
 - Model file: `xgb_model.json`
 - Main app file: `car_price_prediction.py`
 - Notebook file: `Car_Price_Prediction.ipynb`
-- Dataset file: `car_data.csv`
+- Dataset file: `car_data.csv`(not included in the repository)
 
 ## Project Workflow
 
@@ -62,7 +62,7 @@ streamlit run car_price_prediction.py
 
 ## Repository Structure
 
-- `car_data.csv` - source dataset
+- `car_data.csv` - source dataset, not included in the repository
 - `Car_Price_Prediction.ipynb` - preprocessing, EDA, and model development notebook
 - `car_price_prediction.py` - Streamlit prediction app
 - `xgb_model.json` - saved trained model
